@@ -1,4 +1,4 @@
-.root {
+:root {
     --main-header-text-color: #212121;
     --main-p-text-color: #757575;
 }
@@ -37,7 +37,7 @@ body {
 .link-navigation-title a:hover {
     color: #2196F3;
 }
-.
+
 .link-navigation-title a:focus {
     color: #2196F3;
 }
@@ -243,7 +243,7 @@ letter-spacing: 0.06em;
 .footer a:hover {
     color: #2196F3;
 }
-.
+
 .footer a:focus {
     color: #2196F3;
 }
