@@ -196,14 +196,22 @@ body {
     border: 1px solid #EEEEEE;
 }
 
-.portfolio-links {
+.portfolio-name {
+color: #212121;
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;    
+}
+
+/* .portfolio-links {
     text-decoration: none;
     font-size: 18px;
     font-weight: 700;
     line-height: 2;
     letter-spacing: 0.06em;
     color: #212121;
-}
+} */
 /* .portfolio-item a:hover {
     color: #2196F3;
 }
